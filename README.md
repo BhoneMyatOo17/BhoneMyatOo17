@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hey There👋
 
-<!--
-**BhoneMyatOo17/BhoneMyatOo17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Bhone Myat Oo a.k.a Felix
+Currently a Final Year CompSci student, living in Thailand
+I can speak Burmese and English fluently
+Currently working on building my portfolio in **web and mobile development**
+My specialty is **front-end design** combined with my **UI/Ux skills** to create intuitive user interfaces
 
-Here are some ideas to get you started:
+<h2>My Tech Stack</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Languages & Frameworks</h3>
+
+<p align="center">
+  <img src="svg/php.svg" alt="PHP" width="60" height="60" />
+  <img src="svg/laravel.svg" alt="Laravel" width="60" height="60" />
+  <img src="svg/c_sharp.svg" alt="C#" width="60" height="60" />
+</p>
+
+<p align="center">
+  <img src="svg/js.svg" alt="JavaScript" width="60" height="60" />
+  <img src="svg/react.svg" alt="React Native" width="60" height="60" />
+  <img src="svg/kotlin.svg" alt="Kotlin" width="60" height="60" />
+</p>
