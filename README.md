@@ -1,7 +1,7 @@
 ## Hey There👋<br>
 
 I'm Bhone Myat Oo a.k.a Felix<br>
-Currently a Final Year CompSci student, living in Thailand<br>
+Final Year CompSci student, living in Thailand<br>
 I can speak Burmese and English fluently<br>
 Currently working on building my portfolio in **web and mobile development**<br>
 My specialty is **front-end design** combined with my **UI/Ux skills** to create intuitive user interfaces<br>
